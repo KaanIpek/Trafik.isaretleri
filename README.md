@@ -1,2 +1,2 @@
-# Trafik.isaretleri
+# Trafik Sign Detection
 SigntoSpeech
